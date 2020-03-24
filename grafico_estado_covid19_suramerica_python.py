@@ -1,3 +1,7 @@
+'''
+César Pardo - 23-marzo-2020
+Código reutilizable, sólo agradecer :D
+'''
 import math
 import numpy as np
 import matplotlib.pyplot as plt
